@@ -4,8 +4,7 @@ You need to download only paletteswapper.py
 
 But you have to create a CSV file which includes color map
 
-```(From Color)R, G ,B , (To Color)R, G, B
-(From Color)R, G ,B , (To Color)R, G, B```
+```(From Color)R, G ,B , (To Color)R, G, B```
 
 And repeat...
 
